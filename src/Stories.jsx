@@ -6,9 +6,6 @@ import wawawicomics from "./assets/img/wawawicomics.svg";
 import respondeai from "./assets/img/respondeai.svg";
 import filomoderna from "./assets/img/filomoderna.svg";
 import memeriagourmet from "./assets/img/memeriagourmet.svg";
-import gatoTelefone from "./assets/img/gato-telefone.svg";
-import adorableAnimals from "./assets/img/adorable_animals.svg";
-import dog from "./assets/img/dog.svg";
 
 export default function Stories() {
   const stories = [
