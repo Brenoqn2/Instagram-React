@@ -1,6 +1,6 @@
 export default function () {
   return (
-    <footer class="fundo-mobile">
+    <footer className="fundo-mobile">
       <ion-icon name="home"></ion-icon>
       <ion-icon name="search-outline"></ion-icon>
       <ion-icon name="add-circle-outline"></ion-icon>
