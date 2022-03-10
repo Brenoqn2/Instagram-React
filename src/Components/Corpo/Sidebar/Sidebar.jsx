@@ -1,5 +1,5 @@
 import Usuario from "./Usuario";
-import catana from "./assets/img/catanacomics.svg";
+import catana from "../../../assets/img/catanacomics.svg";
 import Sugestoes from "./Sugestoes";
 
 export default function Sidebar() {

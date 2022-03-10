@@ -1,9 +1,7 @@
 import reactDom from "react-dom";
-import Header from "./Header";
-import "../src/css/reset.css";
-import "./css/style.css";
-import Corpo from "./Corpo";
-import Footer from "./Footer";
+import Header from "./Components/Header";
+import Corpo from "./Components/Corpo/Corpo";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
